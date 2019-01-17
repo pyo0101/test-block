@@ -8,3 +8,4 @@
 - 회사 만의 코인 사용 혜택 생성(?) 가능
 
 # 토큰 이코노미
+![adf](https://user-images.githubusercontent.com/43162362/51297307-1c46d780-1a63-11e9-834a-a471f10a8494.png)
